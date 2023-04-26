@@ -36,6 +36,8 @@
 
 <br>
 
+# Welcome :wave: You have reached the Raphtory team repo!
+
 Raphtory is a powerful analytics engine for large-scale graph analysis. It lets you run complex queries on your data, 
 no matter where it's stored or what format it's in. But that's not all - Raphtory's real superpower is its ability to 
 track and explore the history of a complex system, from "time traveling" through data to executing advanced analysis 
@@ -47,15 +49,12 @@ like taint tracking, temporal reachability, and mining temporal motifs.
 
 **Raphtory is lightning-fast and scales effortlessly**: Our core is built upon rust. Raphtory can be run on a laptop or a distributed cluster for terabyte-scale graphs.
 
-# Welcome :wave:! Y 
+## Where to go from here :arrow_right:
 
-<!--
+If you want to checkout the main Raphtory repo can be found [here](https://www.github.com/pometry/raphtory). It is managed by <a href="https://www.pometry.com"><img src="https://user-images.githubusercontent.com/6665739/202438989-2859f8b8-30fb-4402-820a-563049e1fdb3.png" height="20" align="center"/> Pometry</a>, the company developing Raphtory. 
 
-**Here are some ideas to get you started:**
+This organisation is for our experiments/alpha versions of Raphtory, such as the [Docbrown](https://www.github.com/raphtory/docbrown) rust rewrite, which was folded into Raphtory for the 0.3.0 release. You are more than welcome to dig into the projects below, and if you have any questions hit up the team on our [Slack](https://join.slack.com/t/raphtory/shared_invite/zt-xbebws9j-VgPIFRleJFJBwmpf81tvxA).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+
+
